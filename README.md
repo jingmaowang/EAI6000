@@ -1,2 +1,2 @@
 # EAI6000
-This is my personal coursework for EAI6000 at Northeastern University. Please do not copy for academic submission.
+This repository contains my individual coursework for EAI6000 at Northeastern University. Please do not copy or submit this work for academic credit. All group assignments and paper submissions have been removed.
